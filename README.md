@@ -160,6 +160,15 @@ The only difference is that you're the one holding it all together.
 
 ---
 
+## Featured On
+
+- [Hacker News - Show HN](https://news.ycombinator.com/item?id=47093671)
+- [Medium](https://medium.com/@recon007jf)
+- [Dev.to](https://dev.to/recon007jf)
+- [BMAD Community Discussion](https://github.com/bmad-code-org/BMAD-METHOD/discussions/1726)
+
+---
+
 ## License
 
 MIT License. Use it, adapt it, make it yours. Attribution appreciated.
