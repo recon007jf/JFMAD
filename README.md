@@ -134,13 +134,20 @@ The product is in alpha with a real client making real outreach decisions.
 ## Getting Started
 
 1. **Read the [Six Principles](#the-six-principles)** above
-2. **Copy the templates** from [templates/](templates/) into your project
-3. **Assign your models** — decide which AI handles which role based on what it's actually good at
-4. **Write your constitution first** — before any code, define what the product is, who it serves, and what's non-negotiable
-5. **Establish your chain of command** — who reviews what, in what order
-6. **Document everything in one workspace** — Notion, Obsidian, whatever. This is your institutional memory.
+2. **(Optional) Run the [Ideation Phase](IDEATION.md)** — structured brainstorming to stress-test your idea before you build
+3. **Copy the templates** from [templates/](templates/) into your project
+4. **Assign your models** — decide which AI handles which role based on what it's actually good at
+5. **Write your constitution first** — before any code, define what the product is, who it serves, and what's non-negotiable
+6. **Establish your chain of command** — who reviews what, in what order
+7. **Document everything in one workspace** — Notion, Obsidian, whatever. This is your institutional memory.
 
 ---
+
+## Guides
+
+- [IDEATION.md](IDEATION.md) — Structured brainstorming techniques to stress-test ideas before building
+- [ELICITATION.md](ELICITATION.md) — 8 techniques for pushing AI models past default average output
+- [CONTEXT_MANAGEMENT.md](CONTEXT_MANAGEMENT.md) — How to keep your AI team sharp as projects get complex
 
 ## Templates
 
